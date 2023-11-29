@@ -1,9 +1,10 @@
-import 'package:expenses_track/data/expense_data_list.dart';
-import 'package:expenses_track/model/expense_model.dart';
-import 'package:expenses_track/view/new_expense_view.dart';
-import 'package:expenses_track/widget/chart/chart.dart';
-import 'package:expenses_track/widget/expense_list/expense_list.dart';
 import 'package:flutter/material.dart';
+
+import '../data/expense_data_list.dart';
+import '../model/expense_model.dart';
+import '../widget/chart/chart.dart';
+import '../widget/expense_list/expense_list.dart';
+import 'new_expense_view.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({super.key});

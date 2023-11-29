@@ -1,6 +1,6 @@
-import 'package:expenses_track/constants/themes/themes.dart';
 import 'package:flutter/material.dart';
 
+import 'constants/themes/themes.dart';
 import 'view/home_view.dart';
 
 void main() {

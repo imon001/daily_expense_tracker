@@ -1,4 +1,4 @@
-import 'package:expenses_track/model/expense_model.dart';
+import '../model/expense_model.dart';
 
 class AllExpenseList {
   List<ExpenseListModel> dummyList = [

@@ -1,6 +1,7 @@
-import 'package:expenses_track/model/expense_model.dart';
-import 'package:expenses_track/widget/expense_list/expense_list_item/expense_list_item.dart';
 import 'package:flutter/material.dart';
+
+import '../../model/expense_model.dart';
+import 'expense_list_item/expense_list_item.dart';
 
 class ExpenseList extends StatelessWidget {
   const ExpenseList({super.key, required this.expenseList, required this.removeExpense});
