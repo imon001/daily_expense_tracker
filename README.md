@@ -1,7 +1,12 @@
 # Daily Expenses
 
-### a basic flutter app that track your everyday expenses with responsive design
+### a basic flutter app that track your everyday expenses with responsive design.
 
+## Features
+
+- Add or remove expense. 
+- Shows a graph based on total spend on a category.
+- Render well on all screen sizes because of Responsive design.
 
 ## Screenshots
 
